@@ -1,0 +1,25 @@
+.input{
+    border-radius: 5px;
+    width: 80%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: auto;
+  }
+    
+  
+  .green-row {
+    background-color: #676E73;
+    color: white;
+  }
+
+div{
+  font-family: sans-serif;
+}
